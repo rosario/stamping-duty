@@ -9,5 +9,16 @@
         "subject": "Publish other branches as previews next to the live game"
       }
     ]
+  },
+  "instant-hit": {
+    "branch": "worktree-instant-hit",
+    "builds": [
+      {
+        "hash": "194a0ae",
+        "sha": "194a0aeddf9e060d2d4180f1920454b45b7db856",
+        "date": "2026-11-08T11:09:20.000Z",
+        "subject": "Publish other branches as previews next to the live game"
+      }
+    ]
   }
 }
