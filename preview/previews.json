@@ -20,5 +20,16 @@
         "subject": "Publish other branches as previews next to the live game"
       }
     ]
+  },
+  "calm-opening": {
+    "branch": "worktree-calm-opening",
+    "builds": [
+      {
+        "hash": "32671a6",
+        "sha": "32671a600bb893ac538f23a48792476d086f5b6d",
+        "date": "2026-11-09T10:52:42.000Z",
+        "subject": "Add a calm opening behind ?opening=calm"
+      }
+    ]
   }
 }
