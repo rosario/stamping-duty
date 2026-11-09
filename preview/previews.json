@@ -43,5 +43,16 @@
         "subject": "Add a calm opening behind ?opening=calm"
       }
     ]
+  },
+  "coupon-lessons": {
+    "branch": "worktree-coupon-lessons",
+    "builds": [
+      {
+        "hash": "4a3fab4",
+        "sha": "4a3fab42b9ebd522a82e82de7f83e2cc75435e65",
+        "date": "2026-11-09T12:20:47.000Z",
+        "subject": "Mash Space from inside the page in the double-input test"
+      }
+    ]
   }
 }
