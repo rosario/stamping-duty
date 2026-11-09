@@ -25,6 +25,12 @@
     "branch": "worktree-calm-opening",
     "builds": [
       {
+        "hash": "944641b",
+        "sha": "944641bcf5a0f278f82067e2ef8f0a0ef3f38ecc",
+        "date": "2026-11-09T11:13:13.000Z",
+        "subject": "Record the calm opening prototype and its first measurements"
+      },
+      {
         "hash": "32671a6",
         "sha": "32671a600bb893ac538f23a48792476d086f5b6d",
         "date": "2026-11-09T10:52:42.000Z",
