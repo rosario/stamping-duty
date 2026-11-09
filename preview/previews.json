@@ -25,6 +25,12 @@
     "branch": "worktree-calm-opening",
     "builds": [
       {
+        "hash": "ea70bfe",
+        "sha": "ea70bfe70c43018a365cf86d18f5d4dcddc2b947",
+        "date": "2026-11-09T14:24:05.000Z",
+        "subject": "Record the calm vs crowded career rerun on a quiet machine"
+      },
+      {
         "hash": "7cb73b3",
         "sha": "7cb73b3ab54157f78a3970b6c4df76cfd72038c8",
         "date": "2026-11-09T11:50:50.000Z",
