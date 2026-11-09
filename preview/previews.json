@@ -25,6 +25,12 @@
     "branch": "worktree-calm-opening",
     "builds": [
       {
+        "hash": "6665a07",
+        "sha": "6665a07512236f81f07b8b40fc67d13bb5292c54",
+        "date": "2026-11-09T14:24:36.000Z",
+        "subject": "Note the career rerun after both branches merge"
+      },
+      {
         "hash": "ea70bfe",
         "sha": "ea70bfe70c43018a365cf86d18f5d4dcddc2b947",
         "date": "2026-11-09T14:24:05.000Z",
