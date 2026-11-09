@@ -48,6 +48,12 @@
     "branch": "worktree-coupon-lessons",
     "builds": [
       {
+        "hash": "4759c50",
+        "sha": "4759c501dbe9aab23247f0f02aea5bde4b9af867",
+        "date": "2026-11-09T14:01:14.000Z",
+        "subject": "List the breaker script in the README"
+      },
+      {
         "hash": "4a3fab4",
         "sha": "4a3fab42b9ebd522a82e82de7f83e2cc75435e65",
         "date": "2026-11-09T12:20:47.000Z",
