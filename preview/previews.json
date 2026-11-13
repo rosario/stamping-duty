@@ -100,6 +100,12 @@
     "branch": "worktree-arm-sleeve",
     "builds": [
       {
+        "hash": "4dfdf45",
+        "sha": "4dfdf4593c0d9cfe144bbad5d6eb8ff85c9c1f14",
+        "date": "2026-11-13T13:24:30.000Z",
+        "subject": "Fill the Red Tape ribbon towards the next multiplier"
+      },
+      {
         "hash": "5b32c55",
         "sha": "5b32c55ee7a9cf00288eb9461914befffdfee630",
         "date": "2026-11-13T13:05:09.000Z",
