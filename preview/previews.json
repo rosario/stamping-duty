@@ -118,5 +118,16 @@
         "subject": "Fix the stamping arm's sleeve: forearm inside it, garter around it"
       }
     ]
+  },
+  "move-documents": {
+    "branch": "worktree-move-documents",
+    "builds": [
+      {
+        "hash": "91e9f8c",
+        "sha": "91e9f8c713521adb012397ec920fe1a448a0b296",
+        "date": "2026-11-13T17:06:25.000Z",
+        "subject": "Open a new career with probation: sort paperwork by hand before the stamp"
+      }
+    ]
   }
 }
