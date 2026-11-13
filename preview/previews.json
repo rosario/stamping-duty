@@ -95,5 +95,16 @@
         "subject": "Calmer, longer opening and one notice per round of stamping"
       }
     ]
+  },
+  "arm-sleeve": {
+    "branch": "worktree-arm-sleeve",
+    "builds": [
+      {
+        "hash": "b84f79f",
+        "sha": "b84f79f148a8b33c39968a73c9c4bcd5e413503f",
+        "date": "2026-11-13T12:59:31.000Z",
+        "subject": "Fix the stamping arm's sleeve: forearm inside it, garter around it"
+      }
+    ]
   }
 }
