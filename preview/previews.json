@@ -77,6 +77,12 @@
     "branch": "worktree-calmer-start",
     "builds": [
       {
+        "hash": "110de1e",
+        "sha": "110de1e95909182d12dfd9f52a9936c1c8680652",
+        "date": "2026-11-13T12:31:49.000Z",
+        "subject": "Show Processing Fee at the fee scale the desk pays"
+      },
+      {
         "hash": "01ec887",
         "sha": "01ec887658afcdafd9d71dea99c7f0d212e74a61",
         "date": "2026-11-13T12:28:18.000Z",
