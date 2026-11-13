@@ -77,6 +77,12 @@
     "branch": "worktree-calmer-start",
     "builds": [
       {
+        "hash": "987f9cf",
+        "sha": "987f9cf2dc4f569cdcabdb633ba642064d4699bd",
+        "date": "2026-11-13T12:33:01.000Z",
+        "subject": "Show Processing Fee and Mandatory Meeting as they work in new-today notes"
+      },
+      {
         "hash": "110de1e",
         "sha": "110de1e95909182d12dfd9f52a9936c1c8680652",
         "date": "2026-11-13T12:31:49.000Z",
