@@ -100,6 +100,12 @@
     "branch": "worktree-arm-sleeve",
     "builds": [
       {
+        "hash": "5b32c55",
+        "sha": "5b32c55ee7a9cf00288eb9461914befffdfee630",
+        "date": "2026-11-13T13:05:09.000Z",
+        "subject": "Keep the original forearm and fit the sleeve onto it"
+      },
+      {
         "hash": "b84f79f",
         "sha": "b84f79f148a8b33c39968a73c9c4bcd5e413503f",
         "date": "2026-11-13T12:59:31.000Z",
